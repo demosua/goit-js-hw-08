@@ -38,6 +38,5 @@
     "stream-http": "^3.2.0",
     "url": "^0.11.0"
   },
-  "browserslist": "> 0.5%, last 2 versions, not dead",
-  "main": "index.js"
+  "browserslist": "> 0.5%, last 2 versions, not dead"
 }
