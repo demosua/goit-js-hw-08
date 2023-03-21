@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "This project was created with Parcel. For familiarization and setting additional features [refer to documentation](https://parceljs.org/).",
-  "homepage": "https://goitacademy.github.io/parcel-project-template",
+  "homepage": "https://demosua.github.io/goit-js-08/",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /parcel-project-template/"
+    "build": "parcel build src/*.html --public-url /goit-js-08/"
   },
   "repository": {
     "type": "git",
@@ -21,7 +21,8 @@
     "@vimeo/player": "^2.18.0",
     "lodash.throttle": "^4.1.1",
     "modern-normalize": "^1.1.0",
-    "simplelightbox": "^2.12.1"
+    "simplelightbox": "^2.12.1",
+    "vimeo": "^2.3.1"
   },
   "devDependencies": {
     "@parcel/transformer-sass": "^2.6.0",
